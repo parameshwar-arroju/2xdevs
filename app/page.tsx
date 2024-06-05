@@ -33,7 +33,7 @@ export default function Home() {
           {intro}
         </pre>
         <Highlight className="text-black dark:text-white p-2">
-          Parameshwar | VamsiPunna
+          Parameshwar | VamsiPunnaReddy
         </Highlight>
       </motion.h1>
     </HeroHighlight>
